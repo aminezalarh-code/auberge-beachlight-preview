@@ -1,8 +1,8 @@
-:HL["/auberge-beachlight-preview/_next/static/chunks/0t6he-15bsi5_.css","style"]
+:HL["/auberge-beachlight-preview/_next/static/chunks/21o_1j9oq27fw.css","style"]
 :HL["/auberge-beachlight-preview/_next/static/media/3679aa72a9b9035f-s.p.0h6ig86gwutp4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/auberge-beachlight-preview/_next/static/media/c6a5c2fdc12da45c-s.p.17-aodiw50953.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"room","t":"d","k":"azuria","s":[]},"h":96,"c":"$Q4"}]]
 2:[["children",{"s":"rooms","h":96,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"lang","t":"d","k":"en","s":[]},"h":112,"c":"$Q2"}]]
-0:{"b":"_8FGpAMizPbYxDJ-uI4-U","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"0dy64aC0b7OOTPCvFlfA8","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
