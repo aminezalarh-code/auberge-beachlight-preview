@@ -3,4 +3,4 @@
 :HL["/auberge-beachlight-preview/_next/static/media/c6a5c2fdc12da45c-s.p.17-aodiw50953.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"lang","t":"d","k":"fr","s":[]},"h":112,"c":"$Q2"}]]
-0:{"b":"PCz6JgjZI_9OeDelrbKt3","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"OCJZ9QSDk4Xewh4d_QuWS","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
